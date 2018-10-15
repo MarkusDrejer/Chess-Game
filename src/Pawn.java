@@ -34,5 +34,4 @@ public class Pawn extends Piece {
             g.drawString("*********", x, y+40);
         }
     }
-    //This is a Pawn class
 }
