@@ -34,6 +34,4 @@ public class Pawn extends Piece {
             g.drawString("*********", x, y+40);
         }
     }
-
-    //public void move(){}
 }
